@@ -9,7 +9,7 @@ int main() {
     No *pilha = NULL;
 
     do{
-
+	// system() funciona no linux?
         system("clear");
         printf("Registro de Pilha.\n\n");
         printf("(1) - Inserir na pilha.\n");
